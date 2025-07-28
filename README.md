@@ -21,13 +21,13 @@ music-recommender/
 
 ├── app.py # Streamlit web app
 
-├── generate_data.py # Preprocesses lyrics and builds similarity matrix
+├── generate_data.py (Preprocesses lyrics and builds similarity matrix)
 
-├── df.pkl # Processed and stemmed DataFrame
+├── df.pkl ( Processed and stemmed DataFrame )
 
-├── similarity.pkl # Cosine similarity matrix
+├── similarity.pkl ( Cosine similarity matrix )
 
-├── spotify_millsongdata.csv # Original dataset (not uploaded to GitHub)
+├── spotify_millsongdata.csv ( Original dataset (not uploaded to GitHub) )
 
 ├── .gitignore
 
