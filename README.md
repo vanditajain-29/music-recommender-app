@@ -19,7 +19,7 @@ music-recommender/
 
 │
 
-├── app.py # Streamlit web app
+├── app.py ( Streamlit web app )
 
 ├── generate_data.py (Preprocesses lyrics and builds similarity matrix)
 
